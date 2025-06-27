@@ -1,0 +1,576 @@
+{
+  "id": "80c37eac8c1252cd225b5db04d0286d2",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: Webinar Invitation,Art, Music & Entertainment,Art, Music & Entertainment | Tags: club,new",
+  "category": "Webinar Invitation,Art, Music & Entertainment,Art, Music & Entertainment",
+  "tags": "club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "#fffaed"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "#fffaed",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 91212900166547540000,
+      "name": "Layer 1",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 13,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 192,
+        "y": 108,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 136,
+        "height": 91,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#ff7d00",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 90852000166547540000,
+      "name": "Layer 2",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 12,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1092,
+        "y": -294,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 848,
+        "height": 367,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 90
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#463191",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 9016540016654754000,
+      "name": "LOGOHERE",
+      "type": "text",
+      "locked": false,
+      "zIndex": 11,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 352,
+        "y": 128,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 280,
+        "height": 40,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": -1.3800468312512458e-14
+      },
+      "properties": {
+        "text": "LOGOHERE",
+        "color": "#3d4177",
+        "fontSize": "25",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "raleway",
+        "fontWeight": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 8928500016654754000,
+      "name": "Graphic Designer",
+      "type": "text",
+      "locked": false,
+      "zIndex": 10,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 263,
+        "y": 924,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 339,
+        "height": 33,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Graphic Designer",
+        "color": "#ffffff",
+        "fontSize": 16.716430220248174,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "montserrat",
+        "fontWeight": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 8832600016654754000,
+      "name": "Samantha Rose",
+      "type": "text",
+      "locked": false,
+      "zIndex": 9,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 245,
+        "y": 878,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 382,
+        "height": 41,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Samantha Rose",
+        "color": "#ffffff",
+        "fontSize": 21.55024850246209,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "montserrat",
+        "fontWeight": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 8851220016654754000,
+      "name": "Layer 6",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 8,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 266,
+        "y": 638,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 298,
+        "height": 644,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 0.5,
+        "rotation": 89.99999999999993
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#000000",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 8717980016654754000,
+      "name": "April 28 2021 Monday 330PM Join here live at our Facebook pa",
+      "type": "text",
+      "locked": false,
+      "zIndex": 6,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 918,
+        "y": 873,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 797,
+        "height": 107,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "April 28 2021 Monday 330PM Join here live at our Facebook page",
+        "color": "#313131",
+        "fontSize": 21.667626635650823,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "montserrat",
+        "fontWeight": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 8590680016654754000,
+      "name": "Layer 8",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 5,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1719,
+        "y": 640,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 515,
+        "height": 223,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 0.66,
+        "rotation": 90
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#463191",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 8561210016654754000,
+      "name": "Layer 9",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 4,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -94,
+        "y": 435,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 960,
+        "height": 644,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 74.3040119914414
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#000000",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 8539240016654754000,
+      "name": "Layer 10",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 3,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1146,
+        "y": -407,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 960,
+        "height": 644,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": -165.7974664099631
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#000000",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 8427320016654754000,
+      "name": "2021 Design Trends",
+      "type": "text",
+      "locked": false,
+      "zIndex": 2,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 601,
+        "y": 386,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1127,
+        "height": 162,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "2021 Design Trends",
+        "color": "#3d4177",
+        "fontSize": 72.07599504643117,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "galada",
+        "fontWeight": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 8519500016654754000,
+      "name": "FACEBOOK LIVE",
+      "type": "text",
+      "locked": false,
+      "zIndex": 1,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1291,
+        "y": 314,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 423,
+        "height": 45,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": -9.869355315705478e-15
+      },
+      "properties": {
+        "text": "FACEBOOK LIVE",
+        "color": "#3d3d3d",
+        "fontSize": 24,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "montserrat",
+        "fontWeight": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 90474600166547540000,
+      "name": "Layer 13",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 12,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1693,
+        "y": 860,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 42,
+        "height": 91,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 0.55,
+        "rotation": 0
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#ffb200",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/80c37eac8c1252cd225b5db04d0286d2.jpg",
+  "width": 1080,
+  "height": 905,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2022-12-26T05:09:15.000Z",
+  "updatedAt": "2022-12-26T05:09:15.000Z",
+  "originalId": 807
+}

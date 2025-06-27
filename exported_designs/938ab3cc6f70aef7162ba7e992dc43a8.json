@@ -1,0 +1,250 @@
+{
+  "id": "938ab3cc6f70aef7162ba7e992dc43a8",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: general | Tags: club,new",
+  "category": "general",
+  "tags": "club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "rgb(255, 255, 255)"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "rgb(255, 255, 255)",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 2938250016396665000,
+      "name": "Offer",
+      "type": "text",
+      "locked": false,
+      "zIndex": 5,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 211,
+        "y": 832,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 792,
+        "height": 176,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Offer",
+        "color": "rgba(32, 32, 32, 255)",
+        "fontSize": 183,
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "boogaloo",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 2432810016396665000,
+      "name": "45",
+      "type": "text",
+      "locked": false,
+      "zIndex": 4,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 243,
+        "y": 629,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 642,
+        "height": 233,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "45%",
+        "color": "rgba(32, 32, 32, 255)",
+        "fontSize": 183,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "anton",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 2432580016396665000,
+      "name": "Bottum_Left_Design",
+      "type": "image",
+      "locked": false,
+      "zIndex": 3,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -460,
+        "y": 571,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1404,
+        "height": 499,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Bottum_Left_Design",
+        "hue": 0,
+        "src": "/converted_assets/938ab3cc6f70aef7162ba7e992dc43a8_2.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 2429040016396665000,
+      "name": "Image_Placeholder",
+      "type": "image",
+      "locked": false,
+      "zIndex": 2,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 347,
+        "y": 89,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1228,
+        "height": 904,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Image_Placeholder",
+        "hue": 0,
+        "src": "/converted_assets/938ab3cc6f70aef7162ba7e992dc43a8_images_unsplash_com_L3Bob3RvLTE2NDA2NjE2NzIwNzktMjhmMTk2YWE2NjMx.jpg",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 2425360016396665000,
+      "name": "Background_Design",
+      "type": "image",
+      "locked": false,
+      "zIndex": 1,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -364,
+        "y": 86,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 2652,
+        "height": 908,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Background_Design",
+        "hue": 0,
+        "src": "/converted_assets/938ab3cc6f70aef7162ba7e992dc43a8_4.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/938ab3cc6f70aef7162ba7e992dc43a8.jpg",
+  "width": 1080,
+  "height": 1080,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2022-04-17T11:42:24.000Z",
+  "updatedAt": "2022-04-17T11:42:24.000Z",
+  "originalId": 576
+}

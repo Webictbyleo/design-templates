@@ -1,0 +1,253 @@
+{
+  "id": "377f3179dc92e30ee3c57849a41e8165",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: General | Tags: club,new",
+  "category": "General",
+  "tags": "club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "transparent"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "#0000",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 58795700161498150000,
+      "name": "Awesome",
+      "type": "text",
+      "locked": false,
+      "zIndex": 12,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1152,
+        "y": 418,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 675,
+        "height": 98,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Awesome\r",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 86.421132751,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 95607900161498150000,
+      "name": "Aesthetic polaroid cred bespoke chillwave keffiyeh paleo kickstartersquid kogi",
+      "type": "text",
+      "locked": false,
+      "zIndex": 11,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 999,
+        "y": 930,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 740,
+        "height": 102,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Aesthetic polaroid\rcred bespoke, chillwave keffiyeh paleo kickstartersquid kogi.",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 31.9992,
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 31304100161498157000,
+      "name": "Your Marketing Season",
+      "type": "text",
+      "locked": false,
+      "zIndex": 10,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 819,
+        "y": 536,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 998,
+        "height": 277,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Your\rMarketing\rSeason",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 130.84272885,
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 6558760016149815000,
+      "name": "LOGO",
+      "type": "text",
+      "locked": false,
+      "zIndex": 9,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1589,
+        "y": 149,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 208,
+        "height": 49,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "LOGO",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 37.381012118,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 9972530016149815000,
+      "name": "Join us",
+      "type": "text",
+      "locked": false,
+      "zIndex": 7,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1392,
+        "y": 836,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 222,
+        "height": 48,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Join us",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 43.806358147,
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/377f3179dc92e30ee3c57849a41e8165.jpg",
+  "width": 1080,
+  "height": 1350,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2021-12-15T19:01:29.000Z",
+  "updatedAt": "2021-12-15T19:01:29.000Z",
+  "originalId": 389
+}

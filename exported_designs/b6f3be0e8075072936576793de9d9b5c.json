@@ -1,0 +1,618 @@
+{
+  "id": "b6f3be0e8075072936576793de9d9b5c",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: Health, Fitness & Sport,Banner Ad,Health, Fitness & Sport | Tags: club,new",
+  "category": "Health, Fitness & Sport,Banner Ad,Health, Fitness & Sport",
+  "tags": "club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "#000000"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "#000000",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 73244500166551380000,
+      "name": "BUY NOW",
+      "type": "text",
+      "locked": false,
+      "zIndex": 14,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 241,
+        "y": 804,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 203,
+        "height": 48,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 7.31313666925284e-14
+      },
+      "properties": {
+        "text": "BUY NOW",
+        "color": "#ffffff",
+        "fontSize": 50,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "barlow",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 72724700166551380000,
+      "name": "Layer 2",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 13,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 161,
+        "y": 784,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 374,
+        "height": 89,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 3.3445325037567167e-14
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#e38306",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 72536300166551380000,
+      "name": "Layer 3",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 12,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 171,
+        "y": 795,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 374,
+        "height": 89,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#ffffff",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 72315400166551380000,
+      "name": "LOGOHERE",
+      "type": "text",
+      "locked": false,
+      "zIndex": 11,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 255,
+        "y": 246,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 134,
+        "height": 35,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "LOGOHERE",
+        "color": "#ffffff",
+        "fontSize": "25",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "lexend deca",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 7147880016655138000,
+      "name": "Layer 5",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 10,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 152,
+        "y": 200,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 103,
+        "height": 103,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#000000",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 7126450016655138000,
+      "name": "50 OFF",
+      "type": "text",
+      "locked": false,
+      "zIndex": 9,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 461,
+        "y": 39,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 241,
+        "height": 241,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 3.3912786712810215e-14
+      },
+      "properties": {
+        "text": "50OFF",
+        "color": "#ffffff",
+        "fontSize": 119.94070016119431,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "lexend deca",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 7047020016655138000,
+      "name": "SPORT",
+      "type": "text",
+      "locked": false,
+      "zIndex": 8,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 140,
+        "y": 349,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 321,
+        "height": 97,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 2.0958409879426352e-14
+      },
+      "properties": {
+        "text": "SPORT",
+        "color": "#e38306",
+        "fontSize": 101.20665101692968,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "lexend deca",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 6969740016655138000,
+      "name": "ONE DAY ONE CHANCE IMPROVE YOUR HEALTH",
+      "type": "text",
+      "locked": false,
+      "zIndex": 7,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 122,
+        "y": 699,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 715,
+        "height": 33,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "ONE DAY ONE CHANCE IMPROVE YOUR HEALTH",
+        "color": "#e38306",
+        "fontSize": "30",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "lexend deca",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 6878660016655138000,
+      "name": "SHOES",
+      "type": "text",
+      "locked": false,
+      "zIndex": 6,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 122,
+        "y": 435,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 630,
+        "height": 295,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 3.51865349395171e-14
+      },
+      "properties": {
+        "text": "SHOES",
+        "color": "#ffffff",
+        "fontSize": 217.47101507104807,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "bangers",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 6825230016655138000,
+      "name": "Layer 10",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 5,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 766,
+        "y": 117,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 66,
+        "height": 107,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#e38306",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 6781370016655138000,
+      "name": "Layer 11",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 4,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 914,
+        "y": 117,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 845,
+        "height": 846,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#ffffff",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 6743040016655138000,
+      "name": "Layer 12",
+      "type": "image",
+      "locked": false,
+      "zIndex": 3,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 948,
+        "y": 145,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1221,
+        "height": 814,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Layer 12",
+        "hue": 0,
+        "src": "/converted_assets/b6f3be0e8075072936576793de9d9b5c_images_unsplash_com_L3Bob3RvLTE0NjAzNTM1ODE2NDEtMzdiYWRkYWIwZmEy.jpg",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 6763060016655138000,
+      "name": "Layer 13",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 2,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 948,
+        "y": 145,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 883,
+        "height": 848,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#e38306",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 6799460016655138000,
+      "name": "Layer 14",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 1,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1278,
+        "y": -332,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 960,
+        "height": 960,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 0.52,
+        "rotation": 317.56664097627197
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#e38306",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/b6f3be0e8075072936576793de9d9b5c.jpg",
+  "width": 2000,
+  "height": 1125,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2023-06-12T04:02:38.000Z",
+  "updatedAt": "2023-06-12T04:02:38.000Z",
+  "originalId": 908
+}

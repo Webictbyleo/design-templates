@@ -1,0 +1,502 @@
+{
+  "id": "ada8f1e66d774adb2f2d71fefbc4009b",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: General | Tags: club,new",
+  "category": "General",
+  "tags": "club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "transparent"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "#0000",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 14903600163951694000,
+      "name": "photo place here",
+      "type": "image",
+      "locked": false,
+      "zIndex": 11,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -298,
+        "y": 191,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1358,
+        "height": 764,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "photo place here",
+        "hue": 0,
+        "src": "/converted_assets/ada8f1e66d774adb2f2d71fefbc4009b_0.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 14874800163951694000,
+      "name": "texture here",
+      "type": "image",
+      "locked": false,
+      "zIndex": 10,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -485,
+        "y": -111,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 2981,
+        "height": 1258,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "texture here",
+        "hue": 0,
+        "src": "/converted_assets/ada8f1e66d774adb2f2d71fefbc4009b_1.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 14853500163951694000,
+      "name": "Place Your Logo Here Double Click to Edit",
+      "type": "image",
+      "locked": false,
+      "zIndex": 9,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1623,
+        "y": 47,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 185,
+        "height": 96,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Place Your Logo Here Double Click to Edit",
+        "hue": 0,
+        "src": "/converted_assets/ada8f1e66d774adb2f2d71fefbc4009b_2.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 76987400163951690000,
+      "name": "morning breakfast promo 50",
+      "type": "text",
+      "locked": false,
+      "zIndex": 8,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 947,
+        "y": 206,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 881,
+        "height": 496,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "morning\rbreakfast\rpromo\r50%",
+        "color": "rgba(1, 1, 1, 255)",
+        "fontSize": 271,
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "vancouver",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 27253400163951694000,
+      "name": "free food  Drink",
+      "type": "text",
+      "locked": false,
+      "zIndex": 7,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1158,
+        "y": 757,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 483,
+        "height": 41,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "free food & Drink",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 52,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 4265580016395169300,
+      "name": "photo place here",
+      "type": "image",
+      "locked": false,
+      "zIndex": 6,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -298,
+        "y": 191,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1358,
+        "height": 764,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "photo place here",
+        "hue": 0,
+        "src": "/converted_assets/ada8f1e66d774adb2f2d71fefbc4009b_pixabay_com_gc215625e36cb0ec960a4d070428fcb3d943875ffadcbea2ed7a087335d5efde60503847d6f0e7de509340937c1daedccc32b2c76a697fe37bd84f5ce0e26f4f1_640.jpg",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 4263310016395169300,
+      "name": "Rectangle 1",
+      "type": "image",
+      "locked": false,
+      "zIndex": 5,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 766,
+        "y": 745,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1064,
+        "height": 69,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Rectangle 1",
+        "hue": 0,
+        "src": "/converted_assets/ada8f1e66d774adb2f2d71fefbc4009b_9.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 4261050016395169300,
+      "name": "Rectangle",
+      "type": "image",
+      "locked": false,
+      "zIndex": 4,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 855,
+        "y": 679,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 875,
+        "height": 5,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Rectangle",
+        "hue": 0,
+        "src": "/converted_assets/ada8f1e66d774adb2f2d71fefbc4009b_10.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 4258740016395169300,
+      "name": "Rectangle",
+      "type": "image",
+      "locked": false,
+      "zIndex": 3,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 531,
+        "y": -15,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1391,
+        "height": 1117,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Rectangle",
+        "hue": 0,
+        "src": "/converted_assets/ada8f1e66d774adb2f2d71fefbc4009b_11.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 4256330016395169300,
+      "name": "Place texture",
+      "type": "image",
+      "locked": false,
+      "zIndex": 2,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -221,
+        "y": -123,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1227,
+        "height": 1281,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Place texture",
+        "hue": 0,
+        "src": "/converted_assets/ada8f1e66d774adb2f2d71fefbc4009b_12.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 4253530016395169300,
+      "name": "Background",
+      "type": "image",
+      "locked": false,
+      "zIndex": 1,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 0,
+        "y": 0,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1920,
+        "height": 1080,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Background",
+        "hue": 0,
+        "src": "/converted_assets/ada8f1e66d774adb2f2d71fefbc4009b_13.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/ada8f1e66d774adb2f2d71fefbc4009b.jpg",
+  "width": 2000,
+  "height": 2000,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2021-12-27T03:53:07.000Z",
+  "updatedAt": "2021-12-27T03:53:07.000Z",
+  "originalId": 490
+}

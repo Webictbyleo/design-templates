@@ -1,0 +1,334 @@
+{
+  "id": "f99646c85b7f8f681eb299c3af5efdda",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: general | Tags: club,new",
+  "category": "general",
+  "tags": "club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "transparent"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "#0000",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 35180016402656170,
+      "name": "For Every You",
+      "type": "text",
+      "locked": false,
+      "zIndex": 7,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 250,
+        "y": 850,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 379,
+        "height": 128,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "For\rEvery You",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 55,
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 9619170016402655000,
+      "name": "Duis aute irure dolor in reprehenderit in voluptate velit esse",
+      "type": "text",
+      "locked": false,
+      "zIndex": 6,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1031,
+        "y": 779,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 860,
+        "height": 236,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum",
+        "color": "rgba(1, 1, 1, 255)",
+        "fontSize": 55,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 9619080016402655000,
+      "name": "Shape 1",
+      "type": "image",
+      "locked": false,
+      "zIndex": 5,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 957,
+        "y": 719,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 965,
+        "height": 362,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Shape 1",
+        "hue": 0,
+        "src": "/converted_assets/f99646c85b7f8f681eb299c3af5efdda_2.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 9617920016402655000,
+      "name": "Shape 2",
+      "type": "image",
+      "locked": false,
+      "zIndex": 4,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -2,
+        "y": -1,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1923,
+        "height": 47,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Shape 2",
+        "hue": 0,
+        "src": "/converted_assets/f99646c85b7f8f681eb299c3af5efdda_3.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 9616710016402655000,
+      "name": "Shape 3",
+      "type": "image",
+      "locked": false,
+      "zIndex": 3,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -2,
+        "y": 1034,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 965,
+        "height": 48,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Shape 3",
+        "hue": 0,
+        "src": "/converted_assets/f99646c85b7f8f681eb299c3af5efdda_4.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 9615500016402655000,
+      "name": "Replace your image",
+      "type": "image",
+      "locked": false,
+      "zIndex": 2,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 0,
+        "y": 45,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1920,
+        "height": 990,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Replace your image",
+        "hue": 0,
+        "src": "/converted_assets/f99646c85b7f8f681eb299c3af5efdda_5.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 9614020016402655000,
+      "name": "Background",
+      "type": "image",
+      "locked": false,
+      "zIndex": 1,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 0,
+        "y": 0,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1920,
+        "height": 1080,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Background",
+        "hue": 0,
+        "src": "/converted_assets/f99646c85b7f8f681eb299c3af5efdda_6.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/f99646c85b7f8f681eb299c3af5efdda.jpg",
+  "width": 1200,
+  "height": 1200,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2022-04-14T06:00:15.000Z",
+  "updatedAt": "2022-04-14T06:00:15.000Z",
+  "originalId": 467
+}

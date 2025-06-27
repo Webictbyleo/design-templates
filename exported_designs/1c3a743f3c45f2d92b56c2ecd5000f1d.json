@@ -1,0 +1,248 @@
+{
+  "id": "1c3a743f3c45f2d92b56c2ecd5000f1d",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: General | Tags: club,new",
+  "category": "General",
+  "tags": "club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "transparent"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "#0000",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 1640349717116,
+      "name": "Layer 1",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 5,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -30,
+        "y": -8,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 372,
+        "height": 209,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#000000",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 4627000016396670000,
+      "name": "For A Day",
+      "type": "text",
+      "locked": false,
+      "zIndex": 4,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 131,
+        "y": 751,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1678,
+        "height": 293,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "For A Day",
+        "color": "rgba(35, 35, 35, 255)",
+        "fontSize": 229,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "alegreya",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 4989020016396670000,
+      "name": "stayfashion",
+      "type": "text",
+      "locked": false,
+      "zIndex": 3,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 758,
+        "y": 998,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 405,
+        "height": 40,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "#stayfashion",
+        "color": "rgba(35, 35, 35, 255)",
+        "fontSize": 42,
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "AbrilFatface",
+        "fontWeight": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 4982260016396670000,
+      "name": "Image_Placeholder",
+      "type": "image",
+      "locked": false,
+      "zIndex": 2,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -5,
+        "y": -3,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1925,
+        "height": 1085,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Image_Placeholder",
+        "hue": 0,
+        "src": "/converted_assets/1c3a743f3c45f2d92b56c2ecd5000f1d_images_unsplash_com_L3Bob3RvLTE2NDAwMjU4Njc1NzItZjZiM2E4NDEwYzgx.jpg",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 4978600016396670000,
+      "name": "Background",
+      "type": "image",
+      "locked": false,
+      "zIndex": 1,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -2,
+        "y": -1,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1923,
+        "height": 1082,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Background",
+        "hue": 0,
+        "src": "/converted_assets/1c3a743f3c45f2d92b56c2ecd5000f1d_5.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/1c3a743f3c45f2d92b56c2ecd5000f1d.jpg",
+  "width": 1200,
+  "height": 1200,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2021-12-24T04:31:01.000Z",
+  "updatedAt": "2021-12-24T04:31:01.000Z",
+  "originalId": 471
+}

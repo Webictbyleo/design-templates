@@ -1,0 +1,548 @@
+{
+  "id": "97b82a45bbcfa0179cfa7f9e632804da",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: General | Tags: club,new",
+  "category": "General",
+  "tags": "club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "transparent"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "#0000",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 1640632098850,
+      "name": "Layer 1",
+      "type": "text",
+      "locked": false,
+      "zIndex": 12,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 250,
+        "y": 756,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1410,
+        "height": 85,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "",
+        "color": "#000",
+        "fontSize": "25",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 46052400163951665000,
+      "name": "Open",
+      "type": "text",
+      "locked": false,
+      "zIndex": 11,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1532,
+        "y": 63,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 337,
+        "height": 48,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Open!",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 68,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 64355200163951660000,
+      "name": "Now",
+      "type": "text",
+      "locked": false,
+      "zIndex": 10,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1591,
+        "y": 21,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 259,
+        "height": 53,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Now",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 68,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 64351600163951660000,
+      "name": "Group",
+      "type": "image",
+      "locked": false,
+      "zIndex": 9,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1515,
+        "y": 0,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 405,
+        "height": 123,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Group",
+        "hue": 0,
+        "src": "/converted_assets/97b82a45bbcfa0179cfa7f9e632804da_2.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 3927930016395165700,
+      "name": "Call for Booking",
+      "type": "text",
+      "locked": false,
+      "zIndex": 8,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 647,
+        "y": 990,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 626,
+        "height": 27,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Call for Booking",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 48,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 3927560016395165700,
+      "name": "Path",
+      "type": "image",
+      "locked": false,
+      "zIndex": 7,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 592,
+        "y": 985,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 736,
+        "height": 43,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Path",
+        "hue": 0,
+        "src": "/converted_assets/97b82a45bbcfa0179cfa7f9e632804da_6.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 7506100016395166000,
+      "name": "for Hangout",
+      "type": "text",
+      "locked": false,
+      "zIndex": 6,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 87,
+        "y": 590,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1646,
+        "height": 92,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "for Hangout",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 174,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 7505770016395166000,
+      "name": "Path",
+      "type": "image",
+      "locked": false,
+      "zIndex": 5,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 0,
+        "y": 584,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1920,
+        "height": 99,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Path",
+        "hue": 0,
+        "src": "/converted_assets/97b82a45bbcfa0179cfa7f9e632804da_8.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 4508290016395165700,
+      "name": "Best Place",
+      "type": "text",
+      "locked": false,
+      "zIndex": 4,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 94,
+        "y": 483,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1413,
+        "height": 123,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Best Place",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 174,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 4508090016395165700,
+      "name": "Path",
+      "type": "image",
+      "locked": false,
+      "zIndex": 3,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 0,
+        "y": 488,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1596,
+        "height": 98,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Path",
+        "hue": 0,
+        "src": "/converted_assets/97b82a45bbcfa0179cfa7f9e632804da_10.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 4505280016395165700,
+      "name": "Shape",
+      "type": "image",
+      "locked": false,
+      "zIndex": 2,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 0,
+        "y": 0,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1920,
+        "height": 566,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Shape",
+        "hue": 0,
+        "src": "/converted_assets/97b82a45bbcfa0179cfa7f9e632804da_images_unsplash_com_L3Bob3RvLTE2NDA1ODk5ODE1NjktNTYxMDQzMzQ3Yzkz.jpg",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 4502430016395165700,
+      "name": "PathPathPathPathPathPathRectanglePathRectangleRectangle",
+      "type": "image",
+      "locked": false,
+      "zIndex": 1,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 0,
+        "y": 0,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1920,
+        "height": 1080,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "PathPathPathPathPathPathRectanglePathRectangleRectangle",
+        "hue": 0,
+        "src": "/converted_assets/97b82a45bbcfa0179cfa7f9e632804da_12.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/97b82a45bbcfa0179cfa7f9e632804da.jpg",
+  "width": 1080,
+  "height": 1920,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2021-12-27T11:47:52.000Z",
+  "updatedAt": "2021-12-27T11:47:52.000Z",
+  "originalId": 506
+}

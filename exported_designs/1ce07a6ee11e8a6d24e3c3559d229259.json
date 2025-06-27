@@ -1,0 +1,324 @@
+{
+  "id": "1ce07a6ee11e8a6d24e3c3559d229259",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: Instagram Post,Automotive & Transportation | Tags: club,new",
+  "category": "Instagram Post,Automotive & Transportation",
+  "tags": "club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "#e8d5d5"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "#e8d5d5",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 9082200016655137000,
+      "name": "Get your parcels delivered ondemand with realtime tracking S",
+      "type": "text",
+      "locked": false,
+      "zIndex": 6,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 192,
+        "y": 464,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1284,
+        "height": 114,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Get your parcels delivered ondemand with realtime tracking Safe fast and convenient courier service from us Book now",
+        "color": "#630030",
+        "fontSize": 34.151724459924715,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 8968390016655137000,
+      "name": "We pick up and drop off anything for you",
+      "type": "text",
+      "locked": false,
+      "zIndex": 5,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 192,
+        "y": 163,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1479,
+        "height": 194,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "We pick up and drop off anything for you",
+        "color": "#630030",
+        "fontSize": 84.7449374877728,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 8887220016655137000,
+      "name": "Layer 3",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 4,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 48,
+        "y": 620,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 698,
+        "height": 393,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#000000",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 8842230016655137000,
+      "name": "Layer 4",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 3,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 952,
+        "y": 540,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 954,
+        "height": 536,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 2.4289498754656103e-14
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#000000",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 8994500016655137000,
+      "name": "Layer 5",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 2,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1550,
+        "y": 409,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 456,
+        "height": 159,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": -90
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#000000",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 9016670016655137000,
+      "name": "Layer 6",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 1,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 0,
+        "y": 873,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 391,
+        "height": 203,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#000000",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 9036380016655137000,
+      "name": "Layer 7",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 6,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 0,
+        "y": 0,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 320,
+        "height": 175,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#000000",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/1ce07a6ee11e8a6d24e3c3559d229259.jpg",
+  "width": 1080,
+  "height": 1080,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2022-12-26T04:59:50.000Z",
+  "updatedAt": "2022-12-26T04:59:50.000Z",
+  "originalId": 777
+}

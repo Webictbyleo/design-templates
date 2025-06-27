@@ -1,0 +1,803 @@
+{
+  "id": "d641bb90ad40028e5a8ef9303d6c5c92",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: podcast | Tags: club,new",
+  "category": "podcast",
+  "tags": "club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "transparent"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "#0000",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 46720500164112050000,
+      "name": "Vol 35",
+      "type": "text",
+      "locked": false,
+      "zIndex": 18,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1517,
+        "y": 98,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 240,
+        "height": 139,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Vol.\r35",
+        "color": "rgba(254, 136, 77, 255)",
+        "fontSize": 79,
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "agrem",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 46717300164112050000,
+      "name": "Compound Shape",
+      "type": "image",
+      "locked": false,
+      "zIndex": 17,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 157,
+        "y": 90,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 150,
+        "height": 72,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Compound Shape",
+        "hue": 0,
+        "src": "/converted_assets/d641bb90ad40028e5a8ef9303d6c5c92_1.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 4653800164112047000,
+      "name": "Music Podcast",
+      "type": "text",
+      "locked": false,
+      "zIndex": 16,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 165,
+        "y": 186,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 240,
+        "height": 64,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Music\rPodcast",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 36,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 55058100164112050000,
+      "name": "Listen Our Podcast",
+      "type": "text",
+      "locked": false,
+      "zIndex": 15,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1224,
+        "y": 965,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 441,
+        "height": 38,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Listen Our Podcast",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 30,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 16629100164112046000,
+      "name": "New Topic",
+      "type": "text",
+      "locked": false,
+      "zIndex": 14,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1226,
+        "y": 744,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 338,
+        "height": 66,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "New Topic",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 39,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abel",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 69642300164112050000,
+      "name": "Music By Platform",
+      "type": "text",
+      "locked": false,
+      "zIndex": 13,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1227,
+        "y": 800,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 451,
+        "height": 109,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Music By\rPlatform",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 61,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "alice",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 12563800164112046000,
+      "name": "Guest",
+      "type": "text",
+      "locked": false,
+      "zIndex": 12,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 162,
+        "y": 761,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 467,
+        "height": 124,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Guest",
+        "color": "rgba(254, 136, 77, 255)",
+        "fontSize": 132,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "alice",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 65168800164112050000,
+      "name": "Special",
+      "type": "text",
+      "locked": false,
+      "zIndex": 11,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 165,
+        "y": 662,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 706,
+        "height": 116,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Special",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 132,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "alice",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 9891200164112046000,
+      "name": "Special Guest Star",
+      "type": "text",
+      "locked": false,
+      "zIndex": 10,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 162,
+        "y": 911,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 297,
+        "height": 47,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Special Guest Star",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 30,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 9325510016411204000,
+      "name": "Zion Robert Wright",
+      "type": "text",
+      "locked": false,
+      "zIndex": 9,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 162,
+        "y": 960,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 484,
+        "height": 40,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Zion Robert Wright",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 40,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 9325370016411204000,
+      "name": "Compound Shape",
+      "type": "image",
+      "locked": false,
+      "zIndex": 8,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1011,
+        "y": 943,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 165,
+        "height": 94,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Compound Shape",
+        "hue": 0,
+        "src": "/converted_assets/d641bb90ad40028e5a8ef9303d6c5c92_10.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 9323240016411204000,
+      "name": "Compound Shape",
+      "type": "image",
+      "locked": false,
+      "zIndex": 7,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1435,
+        "y": 569,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 165,
+        "height": 93,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Compound Shape",
+        "hue": 0,
+        "src": "/converted_assets/d641bb90ad40028e5a8ef9303d6c5c92_11.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 9320790016411204000,
+      "name": "Compound Shape",
+      "type": "image",
+      "locked": false,
+      "zIndex": 6,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1597,
+        "y": 569,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 165,
+        "height": 93,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Compound Shape",
+        "hue": 0,
+        "src": "/converted_assets/d641bb90ad40028e5a8ef9303d6c5c92_12.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 9318570016411204000,
+      "name": "Compound Shape",
+      "type": "image",
+      "locked": false,
+      "zIndex": 5,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1091,
+        "y": 614,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 830,
+        "height": 467,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Compound Shape",
+        "hue": 0,
+        "src": "/converted_assets/d641bb90ad40028e5a8ef9303d6c5c92_13.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 9316520016411204000,
+      "name": "Compound Shape",
+      "type": "image",
+      "locked": false,
+      "zIndex": 4,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -2,
+        "y": -1,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 678,
+        "height": 382,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Compound Shape",
+        "hue": 0,
+        "src": "/converted_assets/d641bb90ad40028e5a8ef9303d6c5c92_14.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 9314280016411204000,
+      "name": "Compound Shape",
+      "type": "image",
+      "locked": false,
+      "zIndex": 3,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -2,
+        "y": 763,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 565,
+        "height": 318,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Compound Shape",
+        "hue": 0,
+        "src": "/converted_assets/d641bb90ad40028e5a8ef9303d6c5c92_15.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 9311650016411204000,
+      "name": "Image",
+      "type": "image",
+      "locked": false,
+      "zIndex": 2,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 0,
+        "y": 0,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1920,
+        "height": 616,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Image",
+        "hue": 0,
+        "src": "/converted_assets/d641bb90ad40028e5a8ef9303d6c5c92_images_unsplash_com_L3Bob3RvLTE1OTA0MjcwOTA5MTMtYjhhMzNhYTMxMTVi.jpg",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 9309080016411204000,
+      "name": "Background",
+      "type": "image",
+      "locked": false,
+      "zIndex": 1,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -2,
+        "y": -1,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1923,
+        "height": 1082,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Background",
+        "hue": 0,
+        "src": "/converted_assets/d641bb90ad40028e5a8ef9303d6c5c92_17.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/d641bb90ad40028e5a8ef9303d6c5c92.jpg",
+  "width": 1200,
+  "height": 1200,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2022-01-02T05:33:45.000Z",
+  "updatedAt": "2022-01-02T05:33:45.000Z",
+  "originalId": 537
+}

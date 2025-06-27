@@ -1,0 +1,204 @@
+{
+  "id": "952a8ae3cd97657de168257dc5900c7b",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: Blog Banner,Business, Legal & Finance,Business, Legal & Finance | Tags: club,new",
+  "category": "Blog Banner,Business, Legal & Finance,Business, Legal & Finance",
+  "tags": "club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "#ffdb15"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "#ffdb15",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 8075880016656191000,
+      "name": "Build a ResearchBacked Social Media Strategy to Create Custo",
+      "type": "text",
+      "locked": false,
+      "zIndex": 3,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 885,
+        "y": 710,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 927,
+        "height": 94,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Build a ResearchBacked Social Media Strategy to Create Customers for Life",
+        "color": "#000000",
+        "fontSize": 47.86039359902674,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 2962510016656192000,
+      "name": "Layer 2",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 2,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 148,
+        "y": 228,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 437,
+        "height": 644,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#000000",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 9418000016656191000,
+      "name": "Layer 3",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 1,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 705,
+        "y": 266,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 33,
+        "height": 593,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 3.365450926946065e-13
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#000000",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 9409080016656191000,
+      "name": "Social Media Strategy",
+      "type": "text",
+      "locked": false,
+      "zIndex": 3,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 885,
+        "y": 293,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 859,
+        "height": 327,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Social Media Strategy",
+        "color": "#000000",
+        "fontSize": 153.3598804726314,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "montserrat",
+        "fontWeight": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/952a8ae3cd97657de168257dc5900c7b.jpg",
+  "width": 2240,
+  "height": 1260,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2023-06-11T23:31:19.000Z",
+  "updatedAt": "2023-06-11T23:31:19.000Z",
+  "originalId": 866
+}

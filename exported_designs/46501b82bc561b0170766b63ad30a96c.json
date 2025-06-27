@@ -1,0 +1,253 @@
+{
+  "id": "46501b82bc561b0170766b63ad30a96c",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: General | Tags: club,new",
+  "category": "General",
+  "tags": "club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "transparent"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "#0000",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 15315500161498155000,
+      "name": "Awesome",
+      "type": "text",
+      "locked": false,
+      "zIndex": 17,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1380,
+        "y": 539,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 472,
+        "height": 85,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Awesome",
+        "color": "rgba(247, 148, 29, 255)",
+        "fontSize": 60.805786483999995,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 7468400161498155000,
+      "name": "Aesthetic polaroid cred bespoke chillwave",
+      "type": "text",
+      "locked": false,
+      "zIndex": 16,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1246,
+        "y": 937,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 553,
+        "height": 85,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Aesthetic polaroid\rcred bespoke, chillwave.",
+        "color": "rgba(65, 64, 66, 255)",
+        "fontSize": 31.9992,
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 98717300161498150000,
+      "name": "Your Marketing Pack",
+      "type": "text",
+      "locked": false,
+      "zIndex": 15,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1072,
+        "y": 606,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 747,
+        "height": 317,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "\rYour\rMarketing\rPack",
+        "color": "#000",
+        "fontSize": 60.805786483999995,
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 14802000161498155000,
+      "name": "Join us",
+      "type": "text",
+      "locked": false,
+      "zIndex": 14,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 740,
+        "y": 939,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 222,
+        "height": 60,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Join us",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 43.806358147,
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 39585300161498145000,
+      "name": "LOGO",
+      "type": "text",
+      "locked": false,
+      "zIndex": 12,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 261,
+        "y": 93,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 294,
+        "height": 88,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "LOGO",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 53.683151221,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/46501b82bc561b0170766b63ad30a96c.jpg",
+  "width": 1080,
+  "height": 1080,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2021-12-15T19:01:41.000Z",
+  "updatedAt": "2021-12-15T19:01:41.000Z",
+  "originalId": 391
+}

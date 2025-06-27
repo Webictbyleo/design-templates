@@ -1,0 +1,1136 @@
+{
+  "id": "5e8569ee61ba54974fc9b497b7214568",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: youtube cover | Tags: club,new",
+  "category": "youtube cover",
+  "tags": "club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "transparent"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "#0000",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 1635860310674,
+      "name": "WHAT LAPTOP THAT  WORTH TO BUY IN 2022",
+      "type": "text",
+      "locked": false,
+      "zIndex": 26,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 189,
+        "y": 790,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 800,
+        "height": 134,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "WHAT LAPTOP\rTHAT  WORTH\rTO BUY IN 2022?",
+        "color": "rgba(25, 25, 25, 255)",
+        "fontSize": 113,
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abril fatface",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 1635860255689,
+      "name": "WHAT LAPTOP THAT  WORTH TO BUY IN 2022",
+      "type": "text",
+      "locked": false,
+      "zIndex": 25,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 512,
+        "y": 672,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 385,
+        "height": 115,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "WHAT LAPTOP\rTHAT  WORTH\rTO BUY IN 2022?",
+        "color": "rgba(25, 25, 25, 255)",
+        "fontSize": 113,
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abril fatface",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 45073800163103230000,
+      "name": "WHAT LAPTOP THAT  WORTH TO BUY IN 2022",
+      "type": "text",
+      "locked": false,
+      "zIndex": 24,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 153,
+        "y": 533,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 850,
+        "height": 154,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "WHAT LAPTOP\rTHAT  WORTH\rTO BUY IN 2022?",
+        "color": "rgba(25, 25, 25, 255)",
+        "fontSize": 113,
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abril fatface",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 45071900163103230000,
+      "name": "Layer 6",
+      "type": "image",
+      "locked": false,
+      "zIndex": 23,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 122,
+        "y": 803,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 963,
+        "height": 125,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Layer 6",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_2.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 45043200163103230000,
+      "name": "Layer 7",
+      "type": "image",
+      "locked": false,
+      "zIndex": 22,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 462,
+        "y": 671,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 494,
+        "height": 126,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Layer 7",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_3.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 82180000163103230000,
+      "name": "Black Newest Laptop",
+      "type": "text",
+      "locked": false,
+      "zIndex": 21,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 225,
+        "y": 344,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 264,
+        "height": 90,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Black Newest\rLaptop",
+        "color": "rgba(25, 25, 25, 255)",
+        "fontSize": 43,
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 12184400163103228000,
+      "name": "VS",
+      "type": "text",
+      "locked": false,
+      "zIndex": 20,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 549,
+        "y": 341,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 52,
+        "height": 55,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "VS",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 43,
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abril fatface",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 12179700163103228000,
+      "name": "Layer 10",
+      "type": "image",
+      "locked": false,
+      "zIndex": 19,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 509,
+        "y": 314,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 135,
+        "height": 91,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Layer 10",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_6.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 30376200163103228000,
+      "name": "Gray Higher Laptop",
+      "type": "text",
+      "locked": false,
+      "zIndex": 18,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 684,
+        "y": 345,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 229,
+        "height": 89,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Gray Higher\rLaptop",
+        "color": "rgba(25, 25, 25, 255)",
+        "fontSize": 43,
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 30375500163103228000,
+      "name": "Group",
+      "type": "image",
+      "locked": false,
+      "zIndex": 17,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1767,
+        "y": 362,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 18,
+        "height": 18,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Group",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_8.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 30365400163103228000,
+      "name": "Group",
+      "type": "image",
+      "locked": false,
+      "zIndex": 16,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1767,
+        "y": 294,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 19,
+        "height": 19,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Group",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_9.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 30353500163103228000,
+      "name": "Group",
+      "type": "image",
+      "locked": false,
+      "zIndex": 15,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1768,
+        "y": 228,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 17,
+        "height": 17,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Group",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_10.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 30343100163103228000,
+      "name": "Ellipse",
+      "type": "image",
+      "locked": false,
+      "zIndex": 14,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1753,
+        "y": 347,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 47,
+        "height": 47,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Ellipse",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_11.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 30332700163103228000,
+      "name": "Ellipse",
+      "type": "image",
+      "locked": false,
+      "zIndex": 13,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1753,
+        "y": 280,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 47,
+        "height": 47,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Ellipse",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_12.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 30322100163103228000,
+      "name": "Ellipse",
+      "type": "image",
+      "locked": false,
+      "zIndex": 12,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1753,
+        "y": 213,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 47,
+        "height": 47,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Ellipse",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_13.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 30310800163103228000,
+      "name": "Group",
+      "type": "image",
+      "locked": false,
+      "zIndex": 11,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1673,
+        "y": 481,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 42,
+        "height": 42,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Group",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_14.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 30300100163103228000,
+      "name": "ITEM1",
+      "type": "image",
+      "locked": false,
+      "zIndex": 10,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 166,
+        "y": 78,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 380,
+        "height": 239,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "ITEM1",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_15.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 3028960016310322700,
+      "name": "ITEM2",
+      "type": "image",
+      "locked": false,
+      "zIndex": 9,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 608,
+        "y": 78,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 379,
+        "height": 239,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "ITEM2",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_16.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 3027900016310322700,
+      "name": "Group",
+      "type": "image",
+      "locked": false,
+      "zIndex": 8,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 607,
+        "y": 235,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 380,
+        "height": 248,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Group",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_17.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 3026850016310322700,
+      "name": "Shadow",
+      "type": "image",
+      "locked": false,
+      "zIndex": 7,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 575,
+        "y": 203,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 444,
+        "height": 312,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Shadow",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_18.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 3025800016310322700,
+      "name": "Group",
+      "type": "image",
+      "locked": false,
+      "zIndex": 6,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 166,
+        "y": 235,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 380,
+        "height": 248,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Group",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_19.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 3024750016310322700,
+      "name": "Shadow",
+      "type": "image",
+      "locked": false,
+      "zIndex": 5,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 134,
+        "y": 203,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 444,
+        "height": 312,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Shadow",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_20.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 3023680016310322700,
+      "name": "MAIN IMAGE",
+      "type": "image",
+      "locked": false,
+      "zIndex": 4,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 960,
+        "y": 0,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 960,
+        "height": 1080,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "MAIN IMAGE",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_21.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 3022580016310322700,
+      "name": "Path",
+      "type": "image",
+      "locked": false,
+      "zIndex": 3,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1849,
+        "y": 540,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 71,
+        "height": 540,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Path",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_22.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 3021440016310322700,
+      "name": "Path",
+      "type": "image",
+      "locked": false,
+      "zIndex": 2,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 0,
+        "y": 0,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 463,
+        "height": 1080,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Path",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_23.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 3020110016310322700,
+      "name": "BG Color",
+      "type": "image",
+      "locked": false,
+      "zIndex": 1,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 0,
+        "y": 0,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1920,
+        "height": 1080,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "BG Color",
+        "hue": 0,
+        "src": "/converted_assets/5e8569ee61ba54974fc9b497b7214568_24.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/5e8569ee61ba54974fc9b497b7214568.jpg",
+  "width": 1920,
+  "height": 1080,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2021-12-15T18:48:20.000Z",
+  "updatedAt": "2021-12-15T18:48:20.000Z",
+  "originalId": 283
+}

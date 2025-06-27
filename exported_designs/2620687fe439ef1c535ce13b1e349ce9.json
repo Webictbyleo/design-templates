@@ -1,0 +1,1093 @@
+{
+  "id": "2620687fe439ef1c535ce13b1e349ce9",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: marketing | Tags: club,new",
+  "category": "marketing",
+  "tags": "club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "transparent"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "#0000",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 98118500163190780000,
+      "name": "Cassie D Williams",
+      "type": "text",
+      "locked": false,
+      "zIndex": 25,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 256,
+        "y": 719,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 539,
+        "height": 83,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Cassie D. Williams",
+        "color": "rgba(12, 34, 23, 255)",
+        "fontSize": 42,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 44417900163190776000,
+      "name": "Scale with no Money",
+      "type": "text",
+      "locked": false,
+      "zIndex": 24,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 102,
+        "y": 633,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 660,
+        "height": 94,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Scale with no Money",
+        "color": "rgba(0, 0, 0, 255)",
+        "fontSize": 29,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 44415300163190776000,
+      "name": "Line",
+      "type": "image",
+      "locked": false,
+      "zIndex": 23,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 478,
+        "y": 593,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 363,
+        "height": 12,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Line",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_2.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 91182800163190780000,
+      "name": "you Can Start",
+      "type": "text",
+      "locked": false,
+      "zIndex": 22,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 82,
+        "y": 500,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 580,
+        "height": 109,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "you Can Start &",
+        "color": "rgba(0, 0, 0, 255)",
+        "fontSize": 42,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abel",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 33828300163190784000,
+      "name": "Business Ideas",
+      "type": "text",
+      "locked": false,
+      "zIndex": 21,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 89,
+        "y": 358,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 802,
+        "height": 139,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Business Ideas",
+        "color": "rgba(0, 0, 0, 255)",
+        "fontSize": 71,
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abril fatface",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 33827300163190784000,
+      "name": "Layer 1",
+      "type": "image",
+      "locked": false,
+      "zIndex": 20,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 278,
+        "y": -153,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 283,
+        "height": 304,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Layer 1",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_5.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 33812500163190784000,
+      "name": "Shape 4",
+      "type": "image",
+      "locked": false,
+      "zIndex": 19,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 616,
+        "y": 819,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 75,
+        "height": 81,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Shape 4",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_6.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 83880400163190780000,
+      "name": "Order Now",
+      "type": "text",
+      "locked": false,
+      "zIndex": 18,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 363,
+        "y": 835,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 233,
+        "height": 47,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Order Now.!",
+        "color": "rgba(0, 0, 0, 255)",
+        "fontSize": 24,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 83879800163190780000,
+      "name": "Line",
+      "type": "image",
+      "locked": false,
+      "zIndex": 17,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 467,
+        "y": 1004,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 19,
+        "height": 10,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Line",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_8.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 83870900163190780000,
+      "name": "Line",
+      "type": "image",
+      "locked": false,
+      "zIndex": 16,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 490,
+        "y": 1004,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 37,
+        "height": 10,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Line",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_9.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 83861800163190780000,
+      "name": "Line",
+      "type": "image",
+      "locked": false,
+      "zIndex": 15,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 530,
+        "y": 1004,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 520,
+        "height": 10,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Line",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_10.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 83853500163190780000,
+      "name": "Line",
+      "type": "image",
+      "locked": false,
+      "zIndex": 14,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1880,
+        "y": 101,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 93,
+        "height": 134,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Line",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_11.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 83845400163190780000,
+      "name": "Line",
+      "type": "image",
+      "locked": false,
+      "zIndex": 13,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1816,
+        "y": 100,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 130,
+        "height": 203,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Line",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_12.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 83837100163190780000,
+      "name": "Wave",
+      "type": "image",
+      "locked": false,
+      "zIndex": 12,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 950,
+        "y": -76,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 69,
+        "height": 249,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Wave",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_13.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 83828800163190780000,
+      "name": "Wave",
+      "type": "image",
+      "locked": false,
+      "zIndex": 11,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 974,
+        "y": 95,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 77,
+        "height": 249,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Wave",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_14.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 83820100163190780000,
+      "name": "Ellipse 3 copy",
+      "type": "image",
+      "locked": false,
+      "zIndex": 10,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 675,
+        "y": 499,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 91,
+        "height": 98,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Ellipse 3 copy",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_15.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 8380840016319078000,
+      "name": "Ellipse 3",
+      "type": "image",
+      "locked": false,
+      "zIndex": 9,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 269,
+        "y": 612,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 85,
+        "height": 91,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Ellipse 3",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_16.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 8379990016319078000,
+      "name": "Layer 18",
+      "type": "image",
+      "locked": false,
+      "zIndex": 8,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 88,
+        "y": 113,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 176,
+        "height": 205,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Layer 18",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_17.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 8379150016319078000,
+      "name": "Layer 19",
+      "type": "image",
+      "locked": false,
+      "zIndex": 7,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 856,
+        "y": 757,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 176,
+        "height": 153,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Layer 19",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_18.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 8378330016319078000,
+      "name": "Polygon 1 copy",
+      "type": "image",
+      "locked": false,
+      "zIndex": 6,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 867,
+        "y": 172,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 88,
+        "height": 95,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Polygon 1 copy",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_19.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 8377390016319078000,
+      "name": "Polygon 1",
+      "type": "image",
+      "locked": false,
+      "zIndex": 5,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1187,
+        "y": -50,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 88,
+        "height": 95,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Polygon 1",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_20.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 8376350016319078000,
+      "name": "BG",
+      "type": "image",
+      "locked": false,
+      "zIndex": 4,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -158,
+        "y": -119,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1299,
+        "height": 1242,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "BG",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_21.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 8375500016319078000,
+      "name": "BG",
+      "type": "image",
+      "locked": false,
+      "zIndex": 3,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 942,
+        "y": -119,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 216,
+        "height": 1242,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "BG",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_22.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 8374560016319078000,
+      "name": "IMAGE PLACE HOLDER",
+      "type": "image",
+      "locked": false,
+      "zIndex": 2,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1040,
+        "y": 0,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 880,
+        "height": 1080,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "IMAGE PLACE HOLDER",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_23.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 8373130016319078000,
+      "name": "BG",
+      "type": "image",
+      "locked": false,
+      "zIndex": 1,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -2,
+        "y": -2,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1923,
+        "height": 1083,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "BG",
+        "hue": 0,
+        "src": "/converted_assets/2620687fe439ef1c535ce13b1e349ce9_24.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/2620687fe439ef1c535ce13b1e349ce9.jpg",
+  "width": 1200,
+  "height": 628,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2021-12-15T18:18:03.000Z",
+  "updatedAt": "2021-12-15T18:18:03.000Z",
+  "originalId": 107
+}

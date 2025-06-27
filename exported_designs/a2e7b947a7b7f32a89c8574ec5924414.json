@@ -1,0 +1,296 @@
+{
+  "id": "a2e7b947a7b7f32a89c8574ec5924414",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: General | Tags: club,new",
+  "category": "General",
+  "tags": "club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "transparent"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "#0000",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 41439700161498145000,
+      "name": "Cryptocurrency",
+      "type": "text",
+      "locked": false,
+      "zIndex": 24,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1502,
+        "y": 1004,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 358,
+        "height": 57,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Cryptocurrency",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 24.237500714,
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 75012400161498150000,
+      "name": "Crypto",
+      "type": "text",
+      "locked": false,
+      "zIndex": 23,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1507,
+        "y": 934,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 224,
+        "height": 84,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Crypto",
+        "color": "rgba(209, 37, 37, 255)",
+        "fontSize": 42.415632916,
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 7278600161498152000,
+      "name": "yourcash is digital cash",
+      "type": "text",
+      "locked": false,
+      "zIndex": 21,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 115,
+        "y": 140,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 884,
+        "height": 254,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "yourcash is\rdigital cash",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 79.99799999999999,
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 42673600161498145000,
+      "name": "wwwyoursiteurlcom",
+      "type": "text",
+      "locked": false,
+      "zIndex": 20,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 154,
+        "y": 994,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 842,
+        "height": 93,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "www.yoursiteurl.com",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 31.9992,
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 72352900161498150000,
+      "name": "buy yourcoin",
+      "type": "text",
+      "locked": false,
+      "zIndex": 19,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 317,
+        "y": 888,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 398,
+        "height": 61,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "buy yourcoin",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 47.9988,
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 87179400161498150000,
+      "name": "001 /yourcoin",
+      "type": "text",
+      "locked": false,
+      "zIndex": 17,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 413,
+        "y": 491,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 361,
+        "height": 134,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "$0.01\r/yourcoin",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 82.990938508,
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/a2e7b947a7b7f32a89c8574ec5924414.jpg",
+  "width": 200,
+  "height": 200,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2021-12-15T19:01:55.000Z",
+  "updatedAt": "2021-12-15T19:01:55.000Z",
+  "originalId": 394
+}

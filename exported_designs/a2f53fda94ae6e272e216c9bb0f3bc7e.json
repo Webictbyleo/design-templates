@@ -1,0 +1,284 @@
+{
+  "id": "a2f53fda94ae6e272e216c9bb0f3bc7e",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: Youtube Channel Art,Beauty & Cosmetics | Tags: club,new",
+  "category": "Youtube Channel Art,Beauty & Cosmetics",
+  "tags": "club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "rgb(3, 2, 2)"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "rgb(3, 2, 2)",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 2953480016655138000,
+      "name": "Layer 1",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 6,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1131,
+        "y": 845,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 264,
+        "height": 264,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 331.25107457778364
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#ffffff",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 2933770016655138000,
+      "name": "Layer 2",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 5,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1666,
+        "y": 261,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 339,
+        "height": 339,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": -49.61471073656081
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#ffffff",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 2914660016655138000,
+      "name": "Layer 3",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 4,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1422,
+        "y": 440,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 608,
+        "height": 608,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": -60.197122483922826
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#ffffff",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 2892600016655138000,
+      "name": "Layer 4",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 3,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1248,
+        "y": 719,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 396,
+        "height": 396,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#ffffff",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 2860230016655138000,
+      "name": "TIP TRICKS",
+      "type": "text",
+      "locked": false,
+      "zIndex": 2,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 342,
+        "y": 633,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 449,
+        "height": 89,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "TIP TRICKS",
+        "color": "#ffffff",
+        "fontSize": 100.63069533381594,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 2806390016655138000,
+      "name": "STAY YOUNG",
+      "type": "text",
+      "locked": false,
+      "zIndex": 1,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 215,
+        "y": 329,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 576,
+        "height": 323,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "STAY YOUNG",
+        "color": "#ffffff",
+        "fontSize": 193.67317738447943,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abril fatface",
+        "fontWeight": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/a2f53fda94ae6e272e216c9bb0f3bc7e.jpg",
+  "width": 2560,
+  "height": 1440,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2022-10-14T15:35:48.000Z",
+  "updatedAt": "2022-10-14T15:35:48.000Z",
+  "originalId": 659
+}

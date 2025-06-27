@@ -1,0 +1,253 @@
+{
+  "id": "d7b11fc05f6ccd9e400b58019c6379a5",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: General | Tags: club,new",
+  "category": "General",
+  "tags": "club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "transparent"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "#0000",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 1635871132878,
+      "name": "SALE",
+      "type": "text",
+      "locked": false,
+      "zIndex": 25,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 42,
+        "y": 32,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 873,
+        "height": 183,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "SALE",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 284.614337797,
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "alegreya sans",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 24165000161498120000,
+      "name": "Call Us Now  62 123 456 78",
+      "type": "text",
+      "locked": false,
+      "zIndex": 24,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 74,
+        "y": 935,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 453,
+        "height": 104,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Call Us Now:\r+ 62 123 456 78",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 48.066518307,
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 46227900161498120000,
+      "name": "PRICE",
+      "type": "text",
+      "locked": false,
+      "zIndex": 22,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 56,
+        "y": 543,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 436,
+        "height": 128,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "PRICE",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 129.190116833,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 69561300161498120000,
+      "name": "BEST",
+      "type": "text",
+      "locked": false,
+      "zIndex": 21,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 52,
+        "y": 433,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 459,
+        "height": 158,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "BEST",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 129.190116833,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 95407600161498100000,
+      "name": "SALE",
+      "type": "text",
+      "locked": false,
+      "zIndex": 19,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 60,
+        "y": 209,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 563,
+        "height": 219,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "SALE",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 284.614337797,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/d7b11fc05f6ccd9e400b58019c6379a5.jpg",
+  "width": 1080,
+  "height": 1080,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2021-12-15T19:03:56.000Z",
+  "updatedAt": "2021-12-15T19:03:56.000Z",
+  "originalId": 410
+}

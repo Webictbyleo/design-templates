@@ -1,0 +1,336 @@
+{
+  "id": "923d989410ad3cff0063239f9885d563",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: story | Tags: club,new",
+  "category": "story",
+  "tags": "club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "transparent"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "#0000",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 7749550016318261000,
+      "name": "SUMMER COLLECTION",
+      "type": "text",
+      "locked": false,
+      "zIndex": 7,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 312,
+        "y": 143,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1399,
+        "height": 169,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "SUMMER\rCOLLECTION",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 160,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abril fatface",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 2280100016318261000,
+      "name": "SUMMER FASHION SHOW SEPTEMBER 2019",
+      "type": "text",
+      "locked": false,
+      "zIndex": 6,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 483,
+        "y": 730,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1022,
+        "height": 57,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "SUMMER FASHION SHOW\rSEPTEMBER 2019",
+        "color": "rgba(242, 241, 240, 255)",
+        "fontSize": 31,
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 6270600016318261000,
+      "name": "Wenesday Septerber 15th",
+      "type": "text",
+      "locked": false,
+      "zIndex": 5,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 513,
+        "y": 476,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 924,
+        "height": 131,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Wenesday\rSepterber 15th",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 63,
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abel",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 1183660016318261000,
+      "name": "WWWYOURBRANDCOM",
+      "type": "text",
+      "locked": false,
+      "zIndex": 4,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 459,
+        "y": 59,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 626,
+        "height": 21,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "WWW.YOURBRAND.COM",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 24,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 1183590016318261000,
+      "name": "Shape 1",
+      "type": "image",
+      "locked": false,
+      "zIndex": 3,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 165,
+        "y": -1,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1588,
+        "height": 1028,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 0.38,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Shape 1",
+        "hue": 0,
+        "src": "/converted_assets/923d989410ad3cff0063239f9885d563_5.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 1182640016318261000,
+      "name": "Shape 1",
+      "type": "image",
+      "locked": false,
+      "zIndex": 2,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -2,
+        "y": 287,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1924,
+        "height": 793,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Shape 1",
+        "hue": 0,
+        "src": "/converted_assets/923d989410ad3cff0063239f9885d563_6.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 1181490016318261000,
+      "name": "REPLACE PHOTO HERE",
+      "type": "image",
+      "locked": false,
+      "zIndex": 1,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 0,
+        "y": 0,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1920,
+        "height": 1080,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "REPLACE PHOTO HERE",
+        "hue": 0,
+        "src": "/converted_assets/923d989410ad3cff0063239f9885d563_images_unsplash_com_L3Bob3RvLTE2MzYwNDM2NTUxODctNjRlYzIzZGZkZjA2.jpg",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/923d989410ad3cff0063239f9885d563.jpg",
+  "width": 1080,
+  "height": 1920,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2021-12-15T18:42:29.000Z",
+  "updatedAt": "2021-12-15T18:42:29.000Z",
+  "originalId": 245
+}
