@@ -62,6 +62,8 @@ class TemplateConverter {
       name: title || `Template ${id}`,
       title: title || `Template ${id}`,
       description: this.generateDescription(cat, tags),
+      category: cat || null,
+      tags: tags || null,
       data: this.convertDesignData(designData, hash),
       layers: await this.convertLayers(designData, hash),
       thumbnail: this.generateThumbnailPath(hash),
@@ -440,6 +442,8 @@ class TemplateConverter {
         name VARCHAR(255) NOT NULL,
         title VARCHAR(255) NOT NULL,
         description TEXT,
+        category VARCHAR(255),
+        tags TEXT,
         data JSON NOT NULL,
         layers JSON,
         thumbnail VARCHAR(500),
@@ -453,7 +457,8 @@ class TemplateConverter {
         originalId INT,
         INDEX idx_userId (userId),
         INDEX idx_createdAt (createdAt),
-        INDEX idx_isPublic (isPublic)
+        INDEX idx_isPublic (isPublic),
+        INDEX idx_category (category)
       ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
     `;
     
@@ -467,13 +472,15 @@ class TemplateConverter {
   async saveConvertedDesign(design, originalId) {
     const insertSQL = `
       INSERT INTO designs_converted (
-        id, name, title, description, data, layers, thumbnail, 
+        id, name, title, description, category, tags, data, layers, thumbnail, 
         width, height, userId, projectId, isPublic, createdAt, updatedAt, originalId
-      ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+      ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
       ON DUPLICATE KEY UPDATE
         name = VALUES(name),
         title = VALUES(title),
         description = VALUES(description),
+        category = VALUES(category),
+        tags = VALUES(tags),
         data = VALUES(data),
         layers = VALUES(layers),
         thumbnail = VALUES(thumbnail),
@@ -487,6 +494,8 @@ class TemplateConverter {
       design.name,
       design.title,
       design.description,
+      design.category,
+      design.tags,
       JSON.stringify(design.data),
       JSON.stringify(design.layers),
       design.thumbnail,

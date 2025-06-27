@@ -32,6 +32,8 @@ async function exportDesigns() {
         name,
         title,
         description,
+        category,
+        tags,
         data,
         layers,
         thumbnail,
@@ -61,6 +63,8 @@ async function exportDesigns() {
           name: design.name,
           title: design.title,
           description: design.description,
+          category: design.category,
+          tags: design.tags,
           data: typeof design.data === 'string' ? JSON.parse(design.data) : design.data,
           layers: design.layers ? (typeof design.layers === 'string' ? JSON.parse(design.layers) : design.layers) : null,
           thumbnail: design.thumbnail,
@@ -83,6 +87,8 @@ async function exportDesigns() {
           id: design.id,
           name: design.name,
           title: design.title,
+          category: design.category,
+          tags: design.tags,
           width: design.width,
           height: design.height,
           thumbnail: design.thumbnail,
@@ -116,29 +122,17 @@ This directory contains ${exportCount} converted design templates that adhere to
 
 ## Structure
 
-- \`designs_manifest.json\` - Index of all exported designs
+- \`designs_manifest.json\` - Index of all exported designs with categories
 - \`{design-id}.json\` - Individual design files
 
 ## Usage
 
-Each design file follows the Design interface structure defined in \`type.ts\`:
+Each design file follows the Design interface structure with additional category information:
 
 \`\`\`typescript
-interface Design {
-  id: string
-  name: string
-  title: string
-  description?: string
-  data: DesignData
-  layers?: Layer[]
-  thumbnail?: string
-  width: number
-  height: number
-  userId: string
-  projectId?: string
-  isPublic: boolean
-  createdAt: string
-  updatedAt: string
+interface ExportedDesign extends Design {
+  category?: string  // Template category (e.g., "business", "social", etc.)
+  tags?: string      // Template tags (comma-separated)
 }
 \`\`\`
 
@@ -147,11 +141,21 @@ interface Design {
 \`\`\`javascript
 // Load a specific design
 const design = require('./exported_designs/089b7b2bce0e1cec1605c21b16ccb8b6.json');
+console.log('Category:', design.category);
+console.log('Tags:', design.tags);
 
 // Load the manifest to browse all designs
 const manifest = require('./exported_designs/designs_manifest.json');
 console.log(\`Found \${manifest.totalDesigns} designs\`);
+
+// Filter by category
+const businessDesigns = manifest.designs.filter(d => d.category === 'business');
+console.log(\`Found \${businessDesigns.length} business designs\`);
 \`\`\`
+
+## Categories Available
+
+The designs include various categories for easy filtering and organization.
 
 Generated on: ${new Date().toISOString()}
 `;
