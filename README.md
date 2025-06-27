@@ -31,15 +31,30 @@ design-templates/
 ├── templates_table.sql          # Database schema
 ├── .vscode/
 │   └── tasks.json              # VS Code tasks for database queries
+├── converted_assets/           # Processed image assets (included in repo)
+│   └── *.png                  # Copied and renamed image files
 ├── exported_designs/           # Exported JSON files (666 designs)
 │   ├── {design-id}.json       # Individual design files
 │   ├── designs_manifest.json  # Index of all designs
 │   └── README.md              # Export documentation
-├── cache/                      # Template assets cache
+├── cache/                      # Template assets cache (excluded from git)
 │   └── tpl/                   # Template previews and assets
-└── templates/                  # Original template files
+└── templates/                  # Original template files (excluded from git)
     └── all/                   # Template source files by hash
 ```
+
+### Repository Content
+
+**Included in Git:**
+- ✅ `converted_assets/` - Processed images ready for use
+- ✅ `exported_designs/` - JSON design files
+- ✅ All source code and documentation
+
+**Excluded from Git:**
+- ❌ `cache/` - Large cache files (too big for git)
+- ❌ `templates/` - Original template source files (too big for git)
+
+> **Note:** The conversion process copies valid images from `templates/` and `cache/` directories to `converted_assets/` with normalized names, ensuring all required assets are available without the large source directories.
 
 ## 🚀 Quick Start
 
@@ -79,6 +94,28 @@ const dbConfig = {
   database: 'design_templates_test'
 };
 ```
+
+### Setup Without Source Files
+
+If you're working with this repository without the original `cache/` and `templates/` directories:
+
+1. **Clone the repository** - You'll get all converted designs and assets
+2. **Skip conversion** - Use the pre-converted designs in `exported_designs/`
+3. **Use assets** - All required images are in `converted_assets/`
+
+```bash
+# Work with exported designs directly
+cd exported_designs/
+ls *.json  # Browse available designs
+
+# Load designs in your application
+const design = require('./exported_designs/{design-id}.json');
+```
+
+**Asset Loading:**
+- All image paths in designs point to `/converted_assets/`
+- Assets are self-contained and ready to use
+- No need for original source directories
 
 ## 📝 Usage
 
@@ -166,10 +203,25 @@ See `type.ts` for complete interface definitions including `DesignData`, `Layer`
 
 ### Asset Path Normalization
 
-Assets are normalized to consistent paths:
-- Template assets: `/templates/all/{hash}/{filename}`
-- Cached images: `/cache/media_cache/{filename}`
-- External images: Converted to cached versions
+The conversion process handles assets intelligently:
+
+1. **Source Detection**: Finds images in `/templates/all/` and `/cache/` directories
+2. **Validation**: Checks if image files actually exist
+3. **Asset Copying**: Copies valid images to `/converted_assets/` with unique names
+4. **Path Updates**: Updates design references to point to copied assets
+5. **Missing Handling**: Skips image layers where source files don't exist
+
+**Asset Naming Convention:**
+- Format: `{templateHash}_{originalBaseName}.{extension}`
+- Example: `00a6e2aa347a1f213c0933a55f774fd4_background.png`
+- Prevents naming conflicts and maintains traceability
+
+**Path Resolution Priority:**
+1. `/templates/all/{hash}/{filename}` - Template-specific assets
+2. `/cache/media_cache/{filename}` - Shared cached assets  
+3. External URLs - Currently skipped (could be enhanced)
+
+> **Result:** All image references in converted designs point to files in `/converted_assets/` that are guaranteed to exist and are included in the git repository.
 
 ## 💾 Database Schema
 
