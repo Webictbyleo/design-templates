@@ -1,0 +1,18 @@
+{
+  "name": "design-templates-converter",
+  "version": "1.0.0",
+  "description": "Converts legacy design templates to new Design type standard",
+  "main": "convert_templates.js",
+  "scripts": {
+    "convert": "node convert_templates.js",
+    "convert-sample": "node convert_templates.js 10",
+    "convert-all": "node convert_templates.js",
+    "export": "node export_designs.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.6.0"
+  },
+  "keywords": ["design", "templates", "conversion"],
+  "author": "Design Templates Team",
+  "license": "MIT"
+}

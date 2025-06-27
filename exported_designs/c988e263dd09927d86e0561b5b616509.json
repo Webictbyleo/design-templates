@@ -1,0 +1,165 @@
+{
+  "id": "c988e263dd09927d86e0561b5b616509",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: Birthday Card,Event & Celebration | Tags: club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "#fff"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "#fff",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 9862160016661080000,
+      "name": "If youre not busy today Id like to take you out on a special",
+      "type": "text",
+      "locked": false,
+      "zIndex": 2,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 517,
+        "y": 627,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 886,
+        "height": 87,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "If youre not busy today Id like to take you out on a special birthday date",
+        "color": "#292929",
+        "fontSize": 14,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 3641470016661080000,
+      "name": "Hey cutie",
+      "type": "text",
+      "locked": false,
+      "zIndex": 1,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 806,
+        "y": 318,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 309,
+        "height": 46,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Hey cutie",
+        "color": "#292929",
+        "fontSize": 14,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 7872020016661080000,
+      "name": "Its your birthday",
+      "type": "text",
+      "locked": false,
+      "zIndex": 2,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 376,
+        "y": 385,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1167,
+        "height": 207,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Its your birthday",
+        "color": "#ff917b",
+        "fontSize": 58.99479974308019,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "oregano",
+        "fontWeight": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/c988e263dd09927d86e0561b5b616509.jpg",
+  "width": 1080,
+  "height": 766,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2023-01-21T02:55:01.000Z",
+  "updatedAt": "2023-01-21T02:55:01.000Z",
+  "originalId": 838
+}
