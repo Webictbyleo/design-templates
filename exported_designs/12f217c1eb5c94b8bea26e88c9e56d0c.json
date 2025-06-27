@@ -1,0 +1,1976 @@
+{
+  "id": "12f217c1eb5c94b8bea26e88c9e56d0c",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: webinar | Tags: club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "transparent"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "#0000",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 61728400163601646000,
+      "name": "Sharing some unique",
+      "type": "text",
+      "locked": false,
+      "zIndex": 46,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 148,
+        "y": 604,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 568,
+        "height": 52,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Sharing some unique creations",
+        "color": "rgba(96, 96, 96, 255)",
+        "fontSize": 42,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 5639200163601635000,
+      "name": "wwwyourwebsitecom",
+      "type": "text",
+      "locked": false,
+      "zIndex": 45,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1293,
+        "y": 912,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 375,
+        "height": 55,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "www.yourwebsite.com",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 32,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 51024400163601646000,
+      "name": "Time",
+      "type": "text",
+      "locked": false,
+      "zIndex": 44,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 467,
+        "y": 860,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 62,
+        "height": 32,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Time",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 24,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 93422700163601630000,
+      "name": "0900 am",
+      "type": "text",
+      "locked": false,
+      "zIndex": 43,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 468,
+        "y": 890,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 137,
+        "height": 36,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "09:00 am",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 32,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 40324400163601640000,
+      "name": "Date",
+      "type": "text",
+      "locked": false,
+      "zIndex": 42,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 170,
+        "y": 860,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 62,
+        "height": 34,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Date",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 24,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 84224300163601630000,
+      "name": "August 17 2021",
+      "type": "text",
+      "locked": false,
+      "zIndex": 41,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 168,
+        "y": 890,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 218,
+        "height": 34,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "August 17, 2021",
+        "color": "rgba(255, 255, 255, 255)",
+        "fontSize": 32,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 28116300163601633000,
+      "name": "Live Streaming",
+      "type": "text",
+      "locked": false,
+      "zIndex": 40,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 203,
+        "y": 96,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 209,
+        "height": 37,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Live Streaming",
+        "color": "rgba(96, 96, 96, 255)",
+        "fontSize": 32,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 72020800163601646000,
+      "name": "Susan Collier",
+      "type": "text",
+      "locked": false,
+      "zIndex": 39,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 373,
+        "y": 714,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 294,
+        "height": 53,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Susan Collier",
+        "color": "rgba(0, 119, 188, 255)",
+        "fontSize": 52,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 12998000163601633000,
+      "name": "Moderator by",
+      "type": "text",
+      "locked": false,
+      "zIndex": 38,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 149,
+        "y": 709,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 180,
+        "height": 35,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Moderator by:",
+        "color": "rgba(96, 96, 96, 255)",
+        "fontSize": 32,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 50739400163601646000,
+      "name": "Digital Marketing Ex",
+      "type": "text",
+      "locked": false,
+      "zIndex": 37,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 150,
+        "y": 220,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 565,
+        "height": 381,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Digital\rMarketing\rExpert.",
+        "color": "rgba(32, 33, 33, 255)",
+        "fontSize": 120,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "acme",
+        "fontWeight": "normal",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 50738900163601646000,
+      "name": "Place Your Image Here",
+      "type": "image",
+      "locked": false,
+      "zIndex": 36,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1016,
+        "y": 0,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 904,
+        "height": 856,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Place Your Image Here",
+        "hue": 0,
+        "src": "/cache/media_cache/pixabay_com_gbf2f1b3e707274edb05608539a21bbe3f10fe70f7ca989626e26284593957678d21bfb0345b7ecd4512e680af49548f40bf82484832d4235015a2f3fdd5f834b_640.jpg",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50730900163601646000,
+      "name": "Oval Copy 2",
+      "type": "image",
+      "locked": false,
+      "zIndex": 35,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 156,
+        "y": 96,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 27,
+        "height": 27,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval Copy 2",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/11.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50722800163601646000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 34,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1909,
+        "y": 956,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 22,
+        "height": 23,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/12.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50712900163601646000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 33,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1897,
+        "y": 943,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 47,
+        "height": 48,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/13.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50704200163601646000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 32,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1875,
+        "y": 924,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 90,
+        "height": 89,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/14.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50695900163601646000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 31,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1854,
+        "y": 902,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 133,
+        "height": 133,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/15.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50687900163601646000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 30,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1830,
+        "y": 878,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 179,
+        "height": 179,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/16.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50679800163601646000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 29,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1806,
+        "y": 854,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 227,
+        "height": 227,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/17.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50671300163601646000,
+      "name": "Mask",
+      "type": "image",
+      "locked": false,
+      "zIndex": 28,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1806,
+        "y": 854,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 115,
+        "height": 227,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Mask",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/18.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50663300163601646000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 27,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1024,
+        "y": -34,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 26,
+        "height": 26,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/19.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50655200163601646000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 26,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1010,
+        "y": -48,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 54,
+        "height": 54,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/20.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50647300163601646000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 25,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 985,
+        "y": -73,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 104,
+        "height": 104,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/21.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50639200163601646000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 24,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 960,
+        "y": -98,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 154,
+        "height": 154,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/22.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50630700163601646000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 23,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 934,
+        "y": -124,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 206,
+        "height": 206,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/23.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50622600163601646000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 22,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 906,
+        "y": -152,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 261,
+        "height": 261,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/24.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50614700163601646000,
+      "name": "Mask",
+      "type": "image",
+      "locked": false,
+      "zIndex": 21,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 906,
+        "y": -2,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 111,
+        "height": 111,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Mask",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/25.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50606400163601646000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 20,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 946,
+        "y": 1099,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 50,
+        "height": 49,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/26.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50598200163601646000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 19,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 916,
+        "y": 1068,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 111,
+        "height": 111,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/27.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50590100163601646000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 18,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 865,
+        "y": 1018,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 212,
+        "height": 211,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/28.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50582000163601646000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 17,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 814,
+        "y": 965,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 315,
+        "height": 316,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/29.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50573800163601646000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 16,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 759,
+        "y": 911,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 424,
+        "height": 424,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/30.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50564600163601646000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 15,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 702,
+        "y": 854,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 539,
+        "height": 539,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/31.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50556000163601646000,
+      "name": "Mask",
+      "type": "image",
+      "locked": false,
+      "zIndex": 14,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1014,
+        "y": 854,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 227,
+        "height": 227,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Mask",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/32.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50547500163601646000,
+      "name": "Rectangle Copy 5",
+      "type": "image",
+      "locked": false,
+      "zIndex": 13,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1238,
+        "y": 996,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 112,
+        "height": 85,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Rectangle Copy 5",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/33.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50538900163601646000,
+      "name": "Rectangle Copy 3",
+      "type": "image",
+      "locked": false,
+      "zIndex": 12,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1238,
+        "y": 854,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 705,
+        "height": 225,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Rectangle Copy 3",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/34.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50530500163601646000,
+      "name": "Rectangle Copy",
+      "type": "image",
+      "locked": false,
+      "zIndex": 11,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 1014,
+        "y": 854,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 227,
+        "height": 227,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Rectangle Copy",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/35.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 50522200163601646000,
+      "name": "Rectangle Copy 4",
+      "type": "image",
+      "locked": false,
+      "zIndex": 10,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 445,
+        "y": 830,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 194,
+        "height": 117,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Rectangle Copy 4",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/36.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 5051410016360163000,
+      "name": "Rectangle Copy 2",
+      "type": "image",
+      "locked": false,
+      "zIndex": 9,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 146,
+        "y": 830,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 282,
+        "height": 117,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Rectangle Copy 2",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/37.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 5050600016360163000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 8,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -241,
+        "y": 1148,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 169,
+        "height": 169,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/38.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 5049750016360163000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 7,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -347,
+        "y": 1042,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 385,
+        "height": 385,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/39.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 5048870016360163000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 6,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -528,
+        "y": 861,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 743,
+        "height": 743,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/40.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 5047820016360163000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 5,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -712,
+        "y": 677,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1112,
+        "height": 1112,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/41.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 5046920016360163000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 4,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -904,
+        "y": 485,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1495,
+        "height": 1495,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/42.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 5046060016360163000,
+      "name": "Oval",
+      "type": "image",
+      "locked": false,
+      "zIndex": 3,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -1106,
+        "y": 379,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1843,
+        "height": 1806,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Oval",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/43.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    },
+    {
+      "id": 1636031250767,
+      "name": "mask",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 2,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -414,
+        "y": 436,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 863,
+        "height": 868,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#000000",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "id": 5043660016360163000,
+      "name": "Background",
+      "type": "image",
+      "locked": false,
+      "zIndex": 1,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": -1,
+        "y": -1,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1922,
+        "height": 1082,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "alt": "Background",
+        "hue": 0,
+        "src": "/templates/all/12f217c1eb5c94b8bea26e88c9e56d0c/45.png",
+        "blur": 0,
+        "flipX": false,
+        "flipY": false,
+        "sepia": 0,
+        "invert": 0,
+        "shadow": {
+          "enabled": false
+        },
+        "quality": 80,
+        "contrast": 1,
+        "grayscale": 0,
+        "scaleMode": "fill",
+        "brightness": 1,
+        "saturation": 1,
+        "objectPosition": "center",
+        "preserveAspectRatio": true
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/12f217c1eb5c94b8bea26e88c9e56d0c.jpg",
+  "width": 1920,
+  "height": 1080,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2021-12-15T17:37:42.000Z",
+  "updatedAt": "2021-12-15T17:37:42.000Z",
+  "originalId": 2
+}

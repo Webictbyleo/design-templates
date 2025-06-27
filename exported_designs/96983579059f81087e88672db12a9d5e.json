@@ -1,0 +1,162 @@
+{
+  "id": "96983579059f81087e88672db12a9d5e",
+  "name": "latest",
+  "title": "latest",
+  "description": "Category: Quote,Art, Music & Entertainment,Art, Music & Entertainment | Tags: club,new",
+  "data": {
+    "background": {
+      "type": "solid",
+      "color": "#000000"
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": true,
+      "snapToObjects": true,
+      "snapTolerance": 5
+    },
+    "backgroundColor": "#000000",
+    "viewportSettings": {
+      "panX": 0,
+      "panY": 0,
+      "zoom": 1
+    }
+  },
+  "layers": [
+    {
+      "id": 5641830016654755000,
+      "name": "CONFUCIOUS",
+      "type": "text",
+      "locked": false,
+      "zIndex": 2,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 698,
+        "y": 806,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 524,
+        "height": 64,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "CONFUCIOUS",
+        "color": "#33ffcd",
+        "fontSize": 28.292234664925203,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "abeezee",
+        "fontWeight": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 5577570016654755000,
+      "name": "Our greatest glory is not in never failing but in rising eve",
+      "type": "text",
+      "locked": false,
+      "zIndex": 1,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 357,
+        "y": 304,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1205,
+        "height": 430,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "text": "Our greatest glory is not in never failing but in rising every time we fail",
+        "color": "#ffffff",
+        "fontSize": 74.15774077703729,
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "autoResize": {
+          "mode": "both",
+          "enabled": true,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "fontFamily": "montserrat",
+        "fontWeight": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "textDecoration": "none"
+      }
+    },
+    {
+      "id": 5470530016654755000,
+      "name": "Layer 3",
+      "type": "shape",
+      "locked": false,
+      "zIndex": 2,
+      "plugins": {},
+      "visible": true,
+      "transform": {
+        "x": 51,
+        "y": 29,
+        "skewX": 0,
+        "skewY": 0,
+        "width": 1818,
+        "height": 1023,
+        "scaleX": 1,
+        "scaleY": 1,
+        "opacity": 1,
+        "rotation": 0
+      },
+      "properties": {
+        "x1": 0,
+        "x2": 100,
+        "y1": 0,
+        "y2": 100,
+        "fill": {
+          "type": "solid",
+          "color": "#000000",
+          "opacity": 1
+        },
+        "sides": 4,
+        "points": 5,
+        "stroke": "#000000",
+        "shapeType": "rectangle",
+        "innerRadius": 0.5,
+        "strokeWidth": 0,
+        "cornerRadius": 0,
+        "strokeOpacity": 1
+      }
+    }
+  ],
+  "thumbnail": "/cache/tpl/previews/96983579059f81087e88672db12a9d5e.jpg",
+  "width": 1080,
+  "height": 1080,
+  "userId": "legacy_import",
+  "projectId": null,
+  "isPublic": true,
+  "createdAt": "2023-01-22T11:14:52.000Z",
+  "updatedAt": "2023-01-22T11:14:52.000Z",
+  "originalId": 856
+}

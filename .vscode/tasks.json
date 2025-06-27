@@ -1,0 +1,33 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Design Templates DB: Run SQL Query",
+			"type": "shell",
+			"command": "mysql",
+			"args": [
+				"-h",
+				"localhost",
+				"-u",
+				"design_templates_user",
+				"-pdesigntemplates001",
+				"-D",
+				"design_templates_test",
+				"-e",
+				"${input:sqlQuery}"
+			],
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": [],
+			"detail": "Execute SQL queries on the design_templates_test database. Results displayed in terminal output."
+		}
+	],
+	"inputs": [
+		{
+			"id": "sqlQuery",
+			"description": "SQL query to execute on design_templates_test database",
+			"default": "SELECT COUNT(*) as total_templates FROM tpl;",
+			"type": "promptString"
+		}
+	]
+}

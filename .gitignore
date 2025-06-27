@@ -1,0 +1,250 @@
+# Design Templates Converter - Git Ignore
+
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables and configuration
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+config.local.js
+database.local.js
+
+# Source template files and cache (too large for git)
+cache/
+templates/
+
+# IDE and Editor files
+.vscode/settings.json
+.vscode/launch.json
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs/
+*.log
+lerna-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# nyc test coverage
+.nyc_output
+
+# ESLint cache
+.eslintcache
+
+# Temporary folders and files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Database files (if using local SQLite)
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Cache directories
+.cache/
+.parcel-cache/
+
+# Asset cache (keep structure but ignore large files)
+cache/media_cache/
+cache/tpl/*.jpg
+cache/tpl/*.jpeg
+cache/tpl/*.png
+cache/tpl/*.gif
+cache/tpl/*.webp
+
+# Template source files (large binary assets)
+templates/all/**/*.jpg
+templates/all/**/*.jpeg
+templates/all/**/*.png
+templates/all/**/*.gif
+templates/all/**/*.webp
+templates/all/**/*.psd
+templates/all/**/*.ai
+templates/all/**/*.svg
+templates/all/**/*.pdf
+
+# Keep directory structure but ignore large files
+!templates/all/**/
+!cache/tpl/
+
+# Exported designs (optional - remove this if you want to commit exports)
+# exported_designs/*.json
+# !exported_designs/designs_manifest.json
+# !exported_designs/README.md
+
+# Test output and temporary conversion files
+test-output/
+conversion-test/
+temp-exports/
+
+# Performance monitoring
+.clinic/
+
+# TypeScript compilation (if any)
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env.test
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+# Local development database dumps
+*.sql.backup
+database-dump-*.sql
+legacy-backup-*.sql
+
+# Conversion process logs
+conversion-*.log
+export-*.log
+
+# Large media files that shouldn't be in git
+*.mov
+*.mp4
+*.avi
+*.wmv
+*.flv
+*.mkv
+
+# Archive files
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tar.bz2
+
+# Docker files (if using Docker)
+Dockerfile.local
+docker-compose.override.yml
+.dockerignore.local
+
+# Kubernetes local configs
+k8s-local/
+*.local.yaml
+*.local.yml
+
+# Database connection test files
+db-test.js
+connection-test.js
+
+# Performance and profiling files
+*.prof
+*.perf
+
+# Local scripts that shouldn't be committed
+scripts/local/
+run-local.sh
+test-local.sh
+
+# Documentation drafts
+docs/drafts/
+*.draft.md
+
+# Asset optimization cache
+.asset-cache/
+optimized-assets/
+
+# Local VS Code workspace settings that contain sensitive info
+.vscode/settings.json
+
+# Local configuration overrides
+config.override.json
+database.override.json
+
+# Debug files
+debug.log
+debug-*.log
+*.debug
+
+# Memory dumps
+*.heapsnapshot
+
+# Dependency lock files (choose one)
+# Keep package-lock.json but ignore yarn.lock if using npm
+yarn.lock
+# Or keep yarn.lock but ignore package-lock.json if using yarn
+# package-lock.json
+
+# Local SSL certificates
+*.pem
+*.key
+*.crt
+*.cert
+
+# Local development server files
+.dev-server/
+dev-*.json
+
+# Build artifacts for different environments
+build-staging/
+build-test/
+dist-local/
+
+# Monitoring and analytics
+.analytics/
+metrics/
+
+# AI/ML model files (if any are generated)
+*.model
+*.pkl
+*.joblib
+
+# Export variations and tests
+exports-test/
+export-samples/
+converted-samples/
